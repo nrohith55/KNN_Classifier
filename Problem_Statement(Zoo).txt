@@ -1,0 +1,2 @@
+Implement a KNN model to classify the animals in to categorie
+ on Zoo data set.
